@@ -3,7 +3,7 @@ Merge Hyper-V Inventory Reports (PowerShell)
 
 Combines several per-host HTML reports from [HyperV-Inventory.ps1](https://github.com/m365admintools/hyperv-inventory-report) into one self-contained file with a host tab bar across the top. Each host keeps its own dashboard and its own vInfo, vDisk, vNetwork, vSnapshot, vHost, vSwitch, vReplication, and vIntegration tabs, and they work independently.
 
-# This one makes the Hyper-V reporting script even more powerful. It will take all your out puts form different Hyper-V servers and combine them into one report.
+# This one makes the Hyper-V reporting script even more powerful. It will take all your outputs form different Hyper-V servers and combine them into one report.
 
 Visit https://m365admintools.com for more information and IT engineering tools
 
